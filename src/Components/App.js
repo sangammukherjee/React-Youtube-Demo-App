@@ -3,7 +3,7 @@ import SearchBar from './SearchBar';
 import axios from 'axios';
 import Videolist from './Videolist';
 import Videodetail from './Videodetail';
-const KEY = 'AIzaSyAlHBRc4dwEMuMaEcPvA3gooQ1WZ4-S5bE';
+const KEY = 'YOUR API_KEY';
 
 class App extends React.Component{
     state = {
